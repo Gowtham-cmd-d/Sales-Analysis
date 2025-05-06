@@ -46,7 +46,3 @@ This project was created to demonstrate skills in **data visualization**, **Exce
 
 ---
 
-## 📬 Contact
-
-For any queries or feedback, feel free to connect with me via [LinkedIn](https://www.linkedin.com) or email.
-
