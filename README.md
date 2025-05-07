@@ -1,4 +1,4 @@
-# 📊 Power BI & Excel Dashboard Project
+# 📊 Sales Analytics(Power BI & Excel Dashboard Project)
 
 This project showcases a **dynamic and interactive dashboard** built using Microsoft Excel, designed to provide insightful visual analysis from a simulated business dataset. It demonstrates key metrics such as **sales performance**, **product trends**, **regional distribution**, and **customer activity**, using features like slicers, pivot tables, and conditional formatting.
 
