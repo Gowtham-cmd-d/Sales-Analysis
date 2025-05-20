@@ -26,7 +26,6 @@ This project showcases a **dynamic and interactive dashboard** built using Micro
 
 - `dashboard.xlsx` – Main Excel dashboard file  
 - `data/` – Folder with raw data sheets  
-- `images/` – Screenshots of the dashboard (optional)  
 - `README.md` – This file  
 
 ---
